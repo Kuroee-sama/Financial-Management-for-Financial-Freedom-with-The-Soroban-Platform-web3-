@@ -413,6 +413,13 @@ The current version is already strong enough as an **MVP smart contract**, and i
 
 ---
 
+## 13. Contract Details
+- Network: Stellar Tesnet
+- Contract Adddress: CBAPU7SHXWEMW5VQHMYT2MAJKNJMFTIFNFGABNSYKWYZTSHMZUHHLESW
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/aeddcb74-6ec8-4dae-bb45-c980c3561315" />
+
+---
+
 # Bahasa Indonesia
 
 ## 1. Gambaran Umum
